@@ -1122,4 +1122,14 @@ blockquote {
   }
 }
 
+.footer-copyright {
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  margin-top: 35px;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 0.9em;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+
 
